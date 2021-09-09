@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io</id>
     <title>Alpha Test 2021-09</title>
-    <updated>2021-09-09T06:52:00.410Z</updated>
+    <updated>2021-09-09T07:00:01.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io"/>
     <link rel="self" href="https://obcdermax.github.io/atom.xml"/>
@@ -16,15 +16,17 @@
         <link href="https://obcdermax.github.io/post/patch-21-09-09/">
         </link>
         <updated>2021-09-09T06:44:06.000Z</updated>
-        <summary type="html"><![CDATA[<p>优化了时间格式与页脚内容/排布/链接跳转。</p>
+        <summary type="html"><![CDATA[<p>优化了时间格式与页脚内容/排布/链接跳转 等。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>优化了时间格式与页脚内容/排布/链接跳转。</p>
+        <content type="html"><![CDATA[<p>优化了时间格式与页脚内容/排布/链接跳转 等。</p>
 <!-- more -->
-<h1 id="更改了维护信息字段和跳转链接">更改了维护信息字段和跳转链接。</h1>
+<h1 id="修改了时间格式">修改了时间格式。</h1>
+<p>[YYYY MM-DD HH:mm:ss]</p>
+<h1 id="更改了页脚维护信息字段和跳转链接">更改了页脚维护信息字段和跳转链接。</h1>
 <p>[Maintained by obcdermax.github.io]</p>
-<h1 id="增加了虚假的copyright字段">增加了<strong>虚假</strong>的Copyright字段😁</h1>
+<h1 id="增加了虚假的copyright字段">增加了<strong>虚假</strong>的Copyright字段。😁</h1>
 <p>[Copyright © 2021 ObcderMax. All rights reserved.]</p>
-<h1 id="增加了社交按钮的排布预览部分暂无跳转功能">增加了社交按钮的排布预览(部分暂无跳转功能)</h1>
+<h1 id="增加了社交按钮的排布预览部分暂无跳转功能">增加了社交按钮的排布预览(部分暂无跳转功能)。</h1>
 ]]></content>
     </entry>
     <entry>
@@ -164,9 +166,9 @@
 <!-- more -->
 <ul>
 <li>时间格式<br>
-YYYY MM-DD HH:mm:ss</li>
+YYYY-MM-DD HH:mm:ss</li>
 <li>发布时间(北京时间)<br>
-2021 09-04 22:20+n秒</li>
+2021-09-04 22:20+n秒</li>
 </ul>
 ]]></content>
     </entry>
