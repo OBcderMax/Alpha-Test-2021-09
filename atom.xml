@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io</id>
     <title>Alpha Test 2021-09</title>
-    <updated>2021-09-20T06:33:27.534Z</updated>
+    <updated>2021-09-20T06:39:12.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io"/>
     <link rel="self" href="https://obcdermax.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://obcdermax.github.io/images/avatar.png</logo>
     <icon>https://obcdermax.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Alpha Test 2021-09</rights>
+    <entry>
+        <title type="html"><![CDATA[个人网站即将正式发布]]></title>
+        <id>https://obcdermax.github.io/post/ge-ren-wang-zhan-ji-jiang-zheng-shi-fa-bu/</id>
+        <link href="https://obcdermax.github.io/post/ge-ren-wang-zhan-ji-jiang-zheng-shi-fa-bu/">
+        </link>
+        <updated>2021-09-20T06:34:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>发布时间预计2021-09-21中秋节。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>发布时间预计2021-09-21中秋节。</p>
+<!-- more -->
+<p>辛丑年 牛<br>
+丁酉月 壬申日</p>
+<blockquote>
+<p>宜</p>
+</blockquote>
+<ul>
+<li>装修</li>
+<li>开业</li>
+<li>结婚</li>
+<li>领证</li>
+<li>开工</li>
+</ul>
+<blockquote>
+<p>忌</p>
+</blockquote>
+<ul>
+<li>搬家</li>
+<li>入宅</li>
+<li>动土</li>
+<li>出行</li>
+<li>旅游</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于胡八一]]></title>
         <id>https://obcdermax.github.io/post/guan-yu-hu-ba-yi/</id>
@@ -154,24 +188,6 @@
         <link href="https://obcdermax.github.io/post/shi-jian-xian-pai-ban-ce-shi-3/">
         </link>
         <updated>2021-09-04T14:52:41.000Z</updated>
-        <summary type="html"><![CDATA[<p>来源:快科技</p>
-<p>近日，天津@平安武清 民警接银行报警称，一大娘执意要向未知账户转账2万。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>来源:快科技</p>
-<p>近日，天津@平安武清 民警接银行报警称，一大娘执意要向未知账户转账2万。</p>
-<!-- more -->
-<p>面对大家劝说，大娘仍对微信中的美国“男朋友”深信不疑。“喂，是麦克吗？我是杰克！”民警拨通其“男友”语音，听筒中竟传出流利的中文，听出民警的调侃，“美国男友”立即挂断了电话。</p>
-<p>有网友为民警的幽默点赞，并直言真是太有趣： 你是迈克吗 我是杰克 哈哈哈哈哈......</p>
-<p>还有网友调侃称，天津真的随时群口，天津职业说相声的特别努力 否则一不小心就会被老百姓超越……</p>
-<p>最后，民警也是提醒大家，只要涉及钱财转账的，一定要慎之又慎，不要轻易相信任何人。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时间线排版测试2]]></title>
-        <id>https://obcdermax.github.io/post/shi-jian-xian-pai-ban-ce-shi-2/</id>
-        <link href="https://obcdermax.github.io/post/shi-jian-xian-pai-ban-ce-shi-2/">
-        </link>
-        <updated>2021-09-04T14:52:23.000Z</updated>
         <summary type="html"><![CDATA[<p>来源:快科技</p>
 <p>近日，天津@平安武清 民警接银行报警称，一大娘执意要向未知账户转账2万。</p>
 ]]></summary>
